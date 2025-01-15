@@ -72,7 +72,8 @@
         };
 
         echo "<br>";
-        echo "Array sisa baginya adalah:  $rest"; 
+        echo "Array sisa baginya adalah:  "; 
+        print_r($hasil);
         echo "<br>";
 
         echo "<h3> Soal No 3 Looping Asociative Array </h3>";
